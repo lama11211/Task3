@@ -1,1 +1,2 @@
-# Task3
+# Task3 chatbot
+The working in "Software and the Internet of Things track" in previous tasks developing the Robot Control web application to control the robot remotely. The development was done by HTML, CSS, PHP, and MySQL Database. This task is about creating a chatbot using IBM Watson assistant and training the chatbot to respond properly by chatting the chatbot frequently and defining the intents, entities, and dialog replies and then export the skill as JSON file then integrate it with the website. JSON file and the screenshot is uplouded here.
